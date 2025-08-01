@@ -1,0 +1,11 @@
+.image{
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 10px;
+    object-fit: cover;
+    width: 100px;
+}
+.image img{
+    object-fit: contain;
+    width: 100%;
+}
