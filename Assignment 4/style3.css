@@ -1,0 +1,29 @@
+.heading{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-underline-position: below;
+    color: blue;
+    background-color: white;
+    height: 30vh;
+}
+
+#name{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.content{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 60v;
+    background-color: rgb(252, 250, 250);
+
+}
+
+.button{
+    padding: 15px;
+    color: skyblue;
+    
+}
+button:hover{
+    background-color: rgb(234, 190, 190);
+}
+

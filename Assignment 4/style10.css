@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+.hero {
+  background: linear-gradient(135deg, #673ab7, #3f51b5);
+  color: white;
+  padding: 60px 20px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.projects {
+  background-color: #ffffff;
+  padding: 50px 20px;
+  opacity: 0.9;
+}
+
+.fade {
+  opacity: 0.7;
+}
+
+.contact {
+  background-color: #ffffff;
+  padding: 30px 20px;
+}
+
+.contact-btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact-btn:hover {
+  letter-spacing: 1px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
